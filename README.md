@@ -1,7 +1,9 @@
-# Kitties Course
+# 基于Substrate的迷恋猫
 
-* [Substrate Node README](node/README.md)
-* [Front-end README](frontend/README.md)
+## 这是学习Substrate 进阶教程的一部分
+
+* [Substrate节点](node/README.md)
+* [前端](frontend/README.md)
 
 To make polkadot-JS app connects to the Substrate node, add 
 [`frontend/src/config/types.json`](frontend/src/config/types.json)
